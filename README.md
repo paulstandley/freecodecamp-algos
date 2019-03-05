@@ -1,13 +1,23 @@
-# Free code camp algorithm
+# _**PAUL STANDLEY**_
+
+![Profile Pick](http://res.cloudinary.com/pieol2/image/upload/v1516543296/profile-small.png)
+
+---
+
+## **Free code camp algorithm**
 
 ## Basic Algorithm Scripting
 
-1 Convert Celsius to Fahrenheit
+---
 
-2 Reverse a String
+_1 Convert Celsius to Fahrenheit_
 
-3 Factorialize a Number
+_2 Reverse a String_
 
-4 Find the Longest Word in a String
+_3 Factorialize a Number_
 
-5 Return Largest Numbers in Arrays
+_4 Find the Longest Word in a String_
+
+_5 Return Largest Numbers in Arrays_
+
+_6 Confirm the Ending_

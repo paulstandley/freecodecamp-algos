@@ -1,4 +1,4 @@
-# _**PAUL STANDLEY**_
+# __**PAUL STANDLEY**__
 
 ![Profile Pick](http://res.cloudinary.com/pieol2/image/upload/v1516543296/profile-small.png)
 
@@ -21,3 +21,5 @@ _4 Find the Longest Word in a String_
 _5 Return Largest Numbers in Arrays_
 
 _6 Confirm the Ending_
+
+_7 Repeat a String Repeat a String_

@@ -10,16 +10,18 @@
 
 ---
 
-_1 Convert Celsius to Fahrenheit_
+_*1 Convert Celsius to Fahrenheit*_
 
-_2 Reverse a String_
+_*2 Reverse a String*_
 
-_3 Factorialize a Number_
+_*3 Factorialize a Number*_
 
-_4 Find the Longest Word in a String_
+_*4 Find the Longest Word in a String*_
 
-_5 Return Largest Numbers in Arrays_
+_*5 Return Largest Numbers in Arrays*_
 
-_6 Confirm the Ending_
+_*6 Confirm the Ending*_
 
-_7 Repeat a String Repeat a String_
+_*7 Repeat a String Repeat a String*_
+
+_*8 Truncate a String*_

@@ -9,7 +9,7 @@ function repeatStringNumTimes(str, num) {
 // make an empty string return variable    
     let retstr = "";
 // and string together num times then return    
-    for(let i = 1; i < num; i++) {
+    for(let i = 1; i <= num; i++) {
       retstr += str;
     }
     document.write(str,  retstr)

@@ -25,3 +25,7 @@ _*6 Confirm the Ending*_
 _*7 Repeat a String Repeat a String*_
 
 _*8 Truncate a String*_
+
+_*9 Finders Keepers*_
+
+_*10 Boo who*_

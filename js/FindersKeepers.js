@@ -4,8 +4,16 @@ Create a function that looks through an array (first argument) and returns the f
 */
 
 function findElement(arr, func) {
-  let num = 0;
-  return num;
+  for(let num = 0; num < arr.length; num++) {
+// if the function returns true return the value from the array  
+    if(func(arr[num])) {
+      return arr[num];
+    }
+// if the array has no true values in it return underfined    
+    if(num === arr.length - 1) {
+      return undefined;
+    }
+  }
 }
 
 findElement([1, 2, 3, 4], num => num % 2 === 0);// should return 2

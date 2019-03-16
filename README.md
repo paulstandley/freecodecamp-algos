@@ -29,3 +29,5 @@ _*8 Truncate a String*_
 _*9 Finders Keepers*_
 
 _*10 Boo who*_
+
+_*11 Title Case a Sentence*_

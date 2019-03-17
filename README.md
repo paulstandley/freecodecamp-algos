@@ -31,3 +31,5 @@ _*9 Finders Keepers*_
 _*10 Boo who*_
 
 _*11 Title Case a Sentence*_
+
+_*12 Slice and Splice*_

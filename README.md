@@ -33,3 +33,5 @@ _*10 Boo who*_
 _*11 Title Case a Sentence*_
 
 _*12 Slice and Splice*_
+
+_*13 Falsy Bouncer*_

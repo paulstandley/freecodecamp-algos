@@ -11,7 +11,12 @@ Return the resulting array. The input arrays should remain the same after the fu
 
 function frankenSplice(arr1, arr2, n) {
   // It's alive. It's alive!
-  
+// slice off start and end off arr2  
+  let retArrEnd = arr2.slice(n);
+  let retArrStart = arr2.slice(0, n);
+// splice them together  
+  retArrStart.splice(n, 0, ...arr1, ...retArrEnd);
+  return retArrStart;
 }
 
 frankenSplice([1, 2, 3], [4, 5, 6], 1);

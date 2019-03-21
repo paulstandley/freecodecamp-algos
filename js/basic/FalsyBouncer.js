@@ -9,7 +9,15 @@ Hint: Try converting each value to a Boolean.
 
 function bouncer(arr) {
   // Don't show a false ID to this bouncer.
-  return arr;
+// map over array return array, push truthy values, return without falsy value
+  let retVal = [];   
+  arr.map(current => {
+// if checks for truthy falsy values   
+    if(current) {
+      retVal.push(current)
+    }
+  });
+  return retVal;
 }
 
 bouncer([7, "ate", "", false, 9]);

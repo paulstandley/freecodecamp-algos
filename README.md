@@ -6,6 +6,8 @@
 
 ## **Free code camp algorithm**
 
+![Free Code Camp](https://res.cloudinary.com/pieol2/image/upload/v1553100145/freecdecamp.png)
+
 ## Basic Algorithm Scripting
 
 ---
@@ -35,3 +37,5 @@ _*11 Title Case a Sentence*_
 _*12 Slice and Splice*_
 
 _*13 Falsy Bouncer*_
+
+_*14 Where do I Belong*_

@@ -9,7 +9,18 @@ Likewise, getIndexToIns([20,3,5], 19) should return 2 because once the array has
 
 function getIndexToIns(arr, num) {
   // Find my place in this sorted array.
-  return num;
+// make a sorted array
+  const sortArray = arr.sort(function(a, b) {
+    return a - b;
+  }); 
+// fileter untill the value at array index is more than num second paramiter  
+  let retIndex = sortArray.filter(function(val, index, array) {
+    if(array[index] < num) {
+      return val;
+    }
+  });
+// return array length  
+  return retIndex.length;
 }
 
 getIndexToIns([10, 20, 30, 40, 50], 35);// should return 3.

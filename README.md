@@ -8,6 +8,8 @@
 
 ![Free Code Camp](https://res.cloudinary.com/pieol2/image/upload/v1553100145/freecdecamp.png)
 
+---
+
 ## Basic Algorithm Scripting
 
 ---
@@ -43,3 +45,11 @@ _*14 Where do I Belong*_
 _*15 Mutations*_
 
 _*16 Chunky Monkey*_
+
+---
+
+## Intermediate Algorithm Scripting
+
+---
+
+_*1 Sum All Numbers in a Range*_

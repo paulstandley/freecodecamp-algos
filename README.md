@@ -53,3 +53,5 @@ _*16 Chunky Monkey*_
 ---
 
 _*1 Sum All Numbers in a Range*_
+
+_*2 Diff Two Arrays*_
